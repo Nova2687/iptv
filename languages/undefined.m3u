@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KW" tvg-language="" tvg-logo="https://ewsat.com/img/AL_BAWADI.png" tvg-url="" group-title="",Al-Bawadi
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Al-Sabah
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KW" tvg-language="" tvg-logo="https://alshahed.tv/wp-content/themes/twentyfifteen/asset/img/logo.png" tvg-url="" group-title="",Al-Shahed
+https://easybroadcast.akamaized.net/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KW" tvg-language="" tvg-logo="" tvg-url="" group-title="",Marina TV
+https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="KW" tvg-language="" tvg-logo="https://i5.satexpat.com/cha/kw/scope_95x84.gif" tvg-url="" group-title="",Scope TV
+https://gulfsat.cdn.easybroadcast.fr/live/Scope_abr/chunks.m3u8
